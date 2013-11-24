@@ -1,11 +1,9 @@
 /* Author   : Andrew M Bates (andrewbates09)
  * Project  : BF_HASH
- * File     : BF-HASH.C
+ * File     : BF-PRIME.C
  *
- * Notes:
- *
+ * NOTES:
+ * 
  */
 
-#include "bf-hash.h"
-
-
+#include "bf-prime.h"

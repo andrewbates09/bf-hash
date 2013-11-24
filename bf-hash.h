@@ -1,7 +1,9 @@
-/* 
- * Who  : Andrew M Bates (andrewbates09)
- * What : just another hashing function
- * Why  : again, the wrong question
+/* Author   : Andrew M Bates (andrewbates09)
+ * Project  : BF HASH
+ * File     : BF-HASH.H
+ *
+ * NOTES:
+ * 
  *
  */
 
@@ -24,7 +26,7 @@ struct bf_entry
 
 typedef bf_entry bf_table;
 
-struct
+
 
 
 
