@@ -8,7 +8,7 @@
  * 
  * The prime section of this project (bf-prime.c/h) can be considered it's own
  * little sub project and used on it's own for other purposes.  I might 
- * consider forking it out late and giving it a single repo.
+ * consider forking it out later and giving it a single repo.
  * 
  */
 
