@@ -17,8 +17,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <bf-hash.c>
-#include <bf-prime.h>   /*  */
+#include "bf-hash.c"
+#include "bf-prime.h"   /*  */
 
 
 /* ---------- DEFINITIONS ----------*/
